@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumaneSocietyDatabase", "HumaneSocietyDatabase\HumaneSocietyDatabase.csproj", "{C7FB15BD-A916-4A88-916E-E2E5088CCFE1}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "HumaneSocietyModeling", "HumaneSocietyModeling\HumaneSocietyModeling.modelproj", "{FA504606-0CD2-4285-B404-1617151EBA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumaneSocietyModelingLib", "HumaneSocietyModelingLib\HumaneSocietyModelingLib.csproj", "{E4BC2A61-F254-44EC-AADC-998AC2439211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumaneSocietyUnitTest", "UnitTestProject1\HumaneSocietyUnitTest.csproj", "{F1E1A344-B065-483F-A750-DBDBFCB950A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FB15BD-A916-4A88-916E-E2E5088CCFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FB15BD-A916-4A88-916E-E2E5088CCFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FB15BD-A916-4A88-916E-E2E5088CCFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FB15BD-A916-4A88-916E-E2E5088CCFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA504606-0CD2-4285-B404-1617151EBA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA504606-0CD2-4285-B404-1617151EBA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA504606-0CD2-4285-B404-1617151EBA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA504606-0CD2-4285-B404-1617151EBA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4BC2A61-F254-44EC-AADC-998AC2439211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BC2A61-F254-44EC-AADC-998AC2439211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BC2A61-F254-44EC-AADC-998AC2439211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BC2A61-F254-44EC-AADC-998AC2439211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E1A344-B065-483F-A750-DBDBFCB950A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E1A344-B065-483F-A750-DBDBFCB950A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E1A344-B065-483F-A750-DBDBFCB950A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E1A344-B065-483F-A750-DBDBFCB950A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

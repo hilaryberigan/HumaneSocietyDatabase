@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-08-26T10:59:12" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2016-08-26T10:59:12" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2016-08-26T10:59:12" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-08-26T10:59:12" Importance="Diagnostic" Text="ProjectPath = ..\HumaneSocietyModelingLib\HumaneSocietyModelingLib.csproj" />
+  <Message Timestamp="2016-08-26T10:59:12" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-08-26T10:59:12" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-08-26T10:59:12" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-08-26T10:59:12" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-08-26T10:59:12" Importance="Medium" Text="HumaneSocietyModeling's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'HumaneSocietyModeling::Animal' -  (Class), 'HumaneSocietyModeling::Program' -  (Class), 'HumaneSocietyModeling::Bank' -  (Class), 'HumaneSocietyModeling::HumaneSociety' -  (Class), 'HumaneSocietyModeling::Adopter' -  (Class), 'HumaneSocietyModeling::FileReader' -  (Class), 'HumaneSocietyModeling::FileWriter' -  (Class), 'HumaneSocietyModeling::Dog' -  (Class), 'HumaneSocietyModeling::Cat' -  (Class), 'HumaneSocietyModeling::Cage' -  (Class), 'HumaneSocietyModeling::ListOfAdopters' -  (Class), 'HumaneSocietyModeling::ListOfAnimals' -  (Class), 'HumaneSocietyModeling::ListOfCages' -  (Class) " />
+  <Message Timestamp="2016-08-26T10:59:22" Importance="Medium" Text="Project Added: C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\HumaneSocietyModelingLib.csproj" />
+  <Message Timestamp="2016-08-26T10:59:22" Importance="Medium" Text="'HumaneSocietyModeling::Animal' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\Animal.cs" />
+  <Message Timestamp="2016-08-26T10:59:23" Importance="Medium" Text="'HumaneSocietyModeling::Program' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\Program.cs" />
+  <Message Timestamp="2016-08-26T10:59:23" Importance="Medium" Text="'HumaneSocietyModeling::Bank' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\Bank.cs" />
+  <Message Timestamp="2016-08-26T10:59:23" Importance="Medium" Text="'HumaneSocietyModeling::HumaneSociety' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\HumaneSociety.cs" />
+  <Message Timestamp="2016-08-26T10:59:24" Importance="Medium" Text="'HumaneSocietyModeling::Adopter' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\Adopter.cs" />
+  <Message Timestamp="2016-08-26T10:59:24" Importance="Medium" Text="'HumaneSocietyModeling::FileReader' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\FileReader.cs" />
+  <Message Timestamp="2016-08-26T10:59:24" Importance="Medium" Text="'HumaneSocietyModeling::FileWriter' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\FileWriter.cs" />
+  <Message Timestamp="2016-08-26T10:59:24" Importance="Medium" Text="'HumaneSocietyModeling::Dog' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\Dog.cs" />
+  <Message Timestamp="2016-08-26T10:59:24" Importance="Medium" Text="'HumaneSocietyModeling::Cat' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\Cat.cs" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Medium" Text="'HumaneSocietyModeling::Cage' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\Cage.cs" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Medium" Text="'HumaneSocietyModeling::ListOfAdopters' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\ListOfAdopters.cs" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Medium" Text="'HumaneSocietyModeling::ListOfAnimals' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\ListOfAnimals.cs" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Medium" Text="'HumaneSocietyModeling::ListOfCages' -  (Class) : success (file created) - C:\Users\berig\OneDrive\DevCodeCamp Projects\HumaneSocietyDatabase\HumaneSocietyDatabase\HumaneSocietyModelingLib\GeneratedCode\ListOfCages.cs" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Diagnostic" Text="ProjectPath = ..\HumaneSocietyModelingLib\HumaneSocietyModelingLib.csproj" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-08-26T10:59:25" Importance="Medium" Text="HumaneSocietyModeling's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'HumaneSocietyModeling::Animal' -  (Class), 'HumaneSocietyModeling::Program' -  (Class), 'HumaneSocietyModeling::Bank' -  (Class), 'HumaneSocietyModeling::HumaneSociety' -  (Class), 'HumaneSocietyModeling::Adopter' -  (Class), 'HumaneSocietyModeling::FileReader' -  (Class), 'HumaneSocietyModeling::FileWriter' -  (Class), 'HumaneSocietyModeling::Dog' -  (Class), 'HumaneSocietyModeling::Cat' -  (Class), 'HumaneSocietyModeling::Cage' -  (Class), 'HumaneSocietyModeling::ListOfAdopters' -  (Class), 'HumaneSocietyModeling::ListOfAnimals' -  (Class), 'HumaneSocietyModeling::ListOfCages' -  (Class) " />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::Animal' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::Program' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::Bank' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::HumaneSociety' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::Adopter' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::FileReader' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::FileWriter' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::Dog' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::Cat' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::Cage' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::ListOfAdopters' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::ListOfAnimals' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::ListOfCages' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="The selection included 16 elements which were not bound to a template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling' -  (ModelStoreModel): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'string' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'int' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'decimal' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'bool' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'{get;set}' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'{get; set}' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'{get;}' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="Diagnostic" Text="'HumaneSocietyModeling::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:59:26" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
